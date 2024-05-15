@@ -13,6 +13,7 @@
 - Kompositter/Referanser
     - Lister
     - Objekter
+
 **Kontroll Strukturer**
 - Forgreninger
     - if & else
@@ -21,6 +22,7 @@
     - while
     - for & for of & for in
     - Liste metoder
+
 **Funksjoner og Moduler**
 - Funksjoner
 - Moduler
@@ -53,4 +55,3 @@
 
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-- []()
