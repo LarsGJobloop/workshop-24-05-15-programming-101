@@ -27,12 +27,13 @@
 
 ### DOM Dokument Objekt Modellen
 - Web APIene (moduler)
-- DOM
+- Dokument Objekt Modellen
 - DOM CRUD operasjoner
     - Hente ut elementer
     - Lage elementer
     - Endre på elementer
     - Fjerne elementer
+- DOM Hendelser
 
 ### Program Eksempler
 - Theme Switcher
